@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Люди и отделы</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_exit_from_app">Выйти из приложения</string>
+    <string name="name">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="salary">Зарплата</string>
+    <string name="department">Отдел</string>
+    <string name="ok">Принять</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Изменить</string>
+    <string name="name_department">Название отдела</string>
+    <string name="editing_person">Редактирование персоны</string>
+    <string name="adding_person">Добавление персоны</string>
+    <string name="added_in_DB">занесен в базу</string>
+    <string name="edited">Изменено</string>
+    <string name="dont_entered_person_name">Имя персоны не введено</string>
+    <string name="dont_entered_person_lastname">Фамилия персоны не введена</string>
+    <string name="dont_entered_person_salary">Зарплата персоны не введена</string>
+    <string name="dont_entered_person_phone">Телефон персоны не введен</string>
+    <string name="dont_entered_department_name">Имя отдела не введено</string>
+    <string name="entered_long_name">Введено длинное имя(макс. 15)</string>
+    <string name="entered_long_lastname">Введена длинна фамилия(макс. 15)</string>
+    <string name="entered_long_phone">Телефон слишком длинный (макс. 15)</string>
+    <string name="editing_department">Редактирование отдела</string>
+    <string name="adding_department">Добавление отдела</string>
+    <string name="add_person">Добавить персону</string>
+    <string name="add_department">Добавить отдел</string>
+    <string name="edit_department">Редактировать отдел</string>
+    <string name="delete_department">Удалить отдел</string>
+    <string name="select_an_department">Выберите отдел</string>
+    <string name="action_salary_edit">Редактирование зарплат</string>
+    <string name="deleted">Удален</string>
+    <string name="error">Ошибка</string>
+    <string name="data_dont_edited">Данные не отредактированны</string>
+    <string name="select_an_empty_department">Выберите пустой отдел</string>
+    <string name="context_menu">меню</string>
+
+</resources>
